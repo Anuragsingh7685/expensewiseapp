@@ -38,7 +38,6 @@ The application is connected to a **Neon PostgreSQL Database** using **Drizzle O
 | Neon PostgreSQL Database | ✅ Working | Database connection established |
 | Drizzle ORM | ✅ Working | Database operations functional |
 | Data Persistence | ✅ Working | User data stored permanently |
-| Mobile Responsive Design | ✅ Working | Supports desktop and mobile devices |
 
 ## Currently Not Working / Pending Improvements
 
